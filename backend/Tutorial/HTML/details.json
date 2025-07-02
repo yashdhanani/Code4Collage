@@ -1,0 +1,6 @@
+{
+  "title": "Introduction to HTML",
+  "language": "html",
+  "content": "# Introduction to HTML\n\nHTML (HyperText Markup Language) is the standard markup language for Web pages.\n\n* HTML describes the structure of a Web page\n* HTML consists of a series of elements\n* HTML elements tell the browser how to display the content\n* HTML elements label pieces of content such as \"this is a heading\", \"this is a paragraph\", \"this is a link\", etc.\n\n## What is an HTML Element?\n\nAn HTML element is defined by a start tag, some content, and an end tag:\n\n```html\n<tagname>Content goes here...</tagname>\n```",
+  "code": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Page Title</title>\n</head>\n<body>\n\n  <h1>This is a heading</h1>\n  <p>This is a paragraph.</p>\n\n</body>\n</html>"
+}
